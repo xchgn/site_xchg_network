@@ -9,7 +9,7 @@
         display: inline-block;
 
         border-radius: 0px;
-        background-color: #550505;
+        background-color: #050505;
         margin: 10px;
         text-align: center;
     }
@@ -47,5 +47,5 @@
     }
 
     div.card_content_img {
-        background-color: #050505;
+        
     }

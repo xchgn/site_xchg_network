@@ -45,3 +45,7 @@
         width: 300px;
         filter: brightness(0.5);
     }
+
+    div.card_content_img {
+        background-color: #050505;
+    }

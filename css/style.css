@@ -394,6 +394,7 @@ h1 {
     color: #FFFFFF;
     margin-left: 20px;
     text-align: center;
+    font-family: Handjet;
 }
 
 h2 {
@@ -402,6 +403,7 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
     color: #FFFFFF;
+    font-family: Handjet;
 }
 
 pre {

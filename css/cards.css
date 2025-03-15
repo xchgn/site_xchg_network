@@ -30,6 +30,7 @@
         justify-content: flex-start;
     }
     div.card_content_text {
+        font-family: Handjet;
         margin-top: 10px;
         font-size: 1.3em;
 		color: #FFFFFF;

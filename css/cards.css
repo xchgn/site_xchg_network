@@ -12,6 +12,7 @@
         background-color: #050505;
         margin: 10px;
         text-align: center;
+        border-radius: 12px;
     }
     div.card_unit:hover {
         background-color: #101010;

@@ -43,7 +43,7 @@
 
         max-width: 300px;
         width: 260px;
-        filter: brightness(1);
+        filter: brightness(0.5);
     }
 
     div.card_content_img {

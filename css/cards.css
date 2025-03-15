@@ -43,10 +43,11 @@
 
         max-width: 300px;
         width: 260px;
-        filter: brightness(0.5);
+        filter: brightness(0.7);
     }
 
     div.card_content_img {
         background-color: #000000;
         margin: 20px;
+        padding: 50px;
     }

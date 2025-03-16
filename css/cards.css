@@ -42,7 +42,13 @@
         font-size: 0.8em;
         color: #999999;
     }
-    img.card_content_image {
+
+    img.card_content_image1 {
+        width: 150px;
+        filter: brightness(0.9);
+    }
+
+    img.card_content_image2 {
         width: 150px;
         filter: brightness(0.7);
     }

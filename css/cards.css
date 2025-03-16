@@ -45,7 +45,7 @@
 
     img.card_content_image1 {
         width: 150px;
-        filter: brightness(0.9);
+        filter: brightness(1);
     }
 
     img.card_content_image2 {

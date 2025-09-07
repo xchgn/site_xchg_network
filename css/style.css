@@ -463,7 +463,7 @@ a.link_in_text {
 .header_wrapper {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-end;
+    align-items: center;    
     justify-content: space-between;
 }
 

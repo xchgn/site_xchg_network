@@ -822,7 +822,7 @@ a.link_in_text {
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
-    animation: pan 30s linear infinite;
+    animation: pan 10s linear infinite;
 }
 
 @keyframes pan {

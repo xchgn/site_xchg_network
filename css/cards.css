@@ -43,12 +43,12 @@
     }
 
     img.card_content_image1 {
-        width: 150px;
+        width: 256px;
         filter: brightness(1);
     }
 
     img.card_content_image2 {
-        width: 150px;
+        width: 256px;
         filter: brightness(0.7);
     }
 

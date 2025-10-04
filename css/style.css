@@ -815,3 +815,25 @@ a.link_in_text {
 .btn_primary:active {
     background-color: #222;
 }
+
+
+.hero {
+    position: relative;
+    background-image: url('/img/back_servers.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    animation: pulse 6s ease-in-out infinite;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        filter: brightness(1);
+    }
+
+    50% {
+        filter: brightness(1.15);
+    }
+}

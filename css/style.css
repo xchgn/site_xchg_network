@@ -823,7 +823,7 @@ a.link_in_text {
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
-    animation: pulse 6s ease-in-out infinite;
+    animation: pulse 3s ease-in-out infinite;
 }
 
 @keyframes pulse {
@@ -834,6 +834,6 @@ a.link_in_text {
     }
 
     50% {
-        filter: brightness(1.15);
+        filter: brightness(1.5);
     }
 }

@@ -7,7 +7,7 @@
     }
     div.card_unit {
         display: inline-block;
-        border-radius: 0px;
+        border-radius: 6px;
         background-color: #050505;
         margin: 10px;
         text-align: center;

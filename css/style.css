@@ -567,7 +567,7 @@ a.link_in_text {
     left: 0;
     right: 0;            /* растягивает на всю ширину окна */
     z-index: 1000;       /* чтобы был поверх контента */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);    
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);    
 }
 
 .wrapper {

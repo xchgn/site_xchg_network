@@ -816,24 +816,25 @@ a.link_in_text {
     background-color: #222;
 }
 
-
 .hero {
     position: relative;
     background-image: url('/img/back_servers.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
-    animation: pulse 3s ease-in-out infinite;
+    animation: pan 30s linear infinite;
 }
 
-@keyframes pulse {
-
-    0%,
-    100% {
-        filter: brightness(1);
+@keyframes pan {
+    0% {
+        background-position: 50% 0%;
     }
 
     50% {
-        filter: brightness(1.5);
+        background-position: 50% 10%;
+    }
+
+    100% {
+        background-position: 50% 0%;
     }
 }

@@ -559,7 +559,8 @@ a.link_in_text {
 
 .dark_block_header {
     background-color: #111111;
-    padding: 3px;
+    max-width: 1100px;
+    margin: 0 auto;
 }
 
 .wrapper {

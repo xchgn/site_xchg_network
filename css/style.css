@@ -793,13 +793,11 @@ a.link_in_text {
 
 .btn_primary {
     background-color: #0e0e0e;
-    /* почти чёрный фон */
     color: white;
     border: 1px solid #2a2a2a;
     border-radius: 9999px;
-    /* полностью овальная форма */
     font-family: "Inter", sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     padding: 8px 16px;
     display: inline-flex;

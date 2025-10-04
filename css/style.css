@@ -792,9 +792,9 @@ a.link_in_text {
 }
 
 .btn_primary {
-    background-color: #0e0e0e;
+    background-color: #000000;
     color: white;
-    border: 1px solid #2a2a2a;
+    border: 1px solid #777777;
     border-radius: 9999px;
     font-family: "Inter", sans-serif;
     font-size: 16px;

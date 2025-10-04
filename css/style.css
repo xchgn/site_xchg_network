@@ -825,23 +825,17 @@ a.link_in_text {
     overflow: hidden;
   }
   
-  .hero::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: -50%;
-    width: 50%;
-    height: 100%;
-    background: linear-gradient(
-      90deg,
-      transparent,
-      rgba(255, 255, 255, 0.15),
-      transparent
-    );
-    animation: scan 5s linear infinite;
+  .hero {
+    position: relative;
+    background-image: url('/img/back_servers.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    animation: pan 20s linear infinite;
   }
   
-  @keyframes scan {
-    from { left: -50%; }
-    to { left: 100%; }
+  @keyframes pan {
+    0% { background-position: 50% 0%; }
+    50% { background-position: 50% 30%; }
+    100% { background-position: 50% 0%; }
   }

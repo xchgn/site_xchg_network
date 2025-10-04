@@ -7,7 +7,7 @@
     }
     div.card_unit {
         display: inline-block;
-
+        border-top: 1px solid #202020;
         border-radius: 0px;
         background-color: #050505;
         margin: 10px;

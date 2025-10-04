@@ -673,4 +673,5 @@ a.link_in_text {
     border-radius: 5px;
     background-color: #222222;
     color: #FFFFFF;
+    box-shadow: none;
 }

@@ -561,6 +561,12 @@ a.link_in_text {
     background-color: #111111;
     max-width: 1100px;
     margin: 0 auto;
+
+    position: fixed;     /* фиксирует блок */
+    top: 0;              /* прижимает к верхнему краю окна */
+    left: 0;
+    right: 0;            /* растягивает на всю ширину окна */
+    z-index: 1000;       /* чтобы был поверх контента */    
 }
 
 .wrapper {

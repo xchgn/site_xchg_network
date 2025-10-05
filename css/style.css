@@ -848,3 +848,8 @@ a.link_in_text {
     50% { background-position: 50% 30%; }
     100% { background-position: 50% 0%; }
   }
+
+
+  main {
+    margin-top: 80px;
+  }
